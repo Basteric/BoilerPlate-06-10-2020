@@ -710,6 +710,14 @@ button:hover {
   }
 }
 
+.newsletter {
+  width: 500px;
+  margin: auto;
+  background-color: #c8c7c7;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
 body {
   margin: 0;
 }
